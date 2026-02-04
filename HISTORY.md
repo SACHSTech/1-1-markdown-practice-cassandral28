@@ -18,9 +18,9 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 >“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 Key Figures of the 1970s:  
-1. Kool Herc[Kool Herc] – credited with extending the break. 
-2. Afrika Bambaataa[Afrika Bambaataa] – spread hip hop culture through the Universal Zulu Nation.  
-3. Grandmaster Flash[Grandmaster Flash] – innovated DJ techniques like scratching and cutting.
+1. [Kool Herc][Kool Herc] – credited with extending the break. 
+2. [Afrika Bambaataa][Afrika Bambaataa] – spread hip hop culture through the Universal Zulu Nation.  
+3. [Grandmaster Flash][Grandmaster Flash] – innovated DJ techniques like scratching and cutting.
 
 [Kool Herc]:(https://youtu.be/10C-Q3NIlzU)
 [Afrika Bambaataa]:(https://youtu.be/9J3lwZjHenA)
@@ -28,7 +28,7 @@ Key Figures of the 1970s:
 
 ## 3. The Old School Era (Early 1980s)  
 
-![Run DMC] (image link: https://i.imgur.com/e80w9gc.jpg)
+![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
 - Rapper’s Delight by the [Sugarhill Gang]((video link: https://youtu.be/mcCK99wHrk0) ) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
