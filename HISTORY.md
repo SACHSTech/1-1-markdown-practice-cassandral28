@@ -22,7 +22,7 @@ Key Figures of the 1970s:
 2. Afrika Bambaataa[Afrika Bambaataa] – spread hip hop culture through the Universal Zulu Nation.  
 3. Grandmaster Flash[Grandmaster Flash] – innovated DJ techniques like scratching and cutting.
 
-[Kool Herc]:https://youtu.be/10C-Q3NIlzU)
+[Kool Herc]:(https://youtu.be/10C-Q3NIlzU)
 [Afrika Bambaataa]:(https://youtu.be/9J3lwZjHenA)
 [Grandmaster Flash]:(https://youtu.be/PobrSpMwKk4)
 
