@@ -1,35 +1,37 @@
-The History of Hip Hop Music  
+# The History of Hip Hop Music  
 
-1. Introduction  
-Hip hop is more than just a genre of music. It is a cultural movement that began in the Bronx, New York City in the early 1970s. It encompasses four main elements:  
-MCing (Rapping)  
-DJing (Turntablism)  
-Breakdancing (B-boying)  
-Graffiti Art  
+## 1. Introduction  
+Hip hop is more than just a genre of music. It is a cultural movement that began in the **Bronx, New York City** in the early 1970s. It encompasses four main elements:  
+**- MCing (Rapping)**
+**- DJing (Turntablism)**  
+**- Breakdancing (B-boying)**  
+**- Graffiti Art**  
 
 Together, these four pillars shaped a global cultural force. Today, hip hop is one of the most influential musical genres worldwide, though many argue that its commercial evolution has diluted some of its original authenticity.  
 
-2. The Birth of Hip Hop (1970s)  
+## 2. The Birth of Hip Hop (1970s)  
 
-DJ Kool Herc (image link: https://i.imgur.com/weXCosl.jpg)
+![DJ Kool Herc] (image link: https://i.imgur.com/weXCosl.jpg)
 
-Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the breakbeat from funk and soul records.  
-
+Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the _breakbeat_ from funk and soul records.  
 This extended drum section became the foundation for MCs to hype up the crowd.  
-
-“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
+>“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 Key Figures of the 1970s:  
-1. Kool Herc – credited with extending the break. (video link: https://youtu.be/10C-Q3NIlzU)  
-2. Afrika Bambaataa – spread hip hop culture through the Universal Zulu Nation. (video link: https://youtu.be/9J3lwZjHenA)  
-3. Grandmaster Flash – innovated DJ techniques like scratching and cutting. (video link: https://youtu.be/PobrSpMwKk4)  
+1. Kool Herc[Kool Herc] – credited with extending the break. (video link: https://youtu.be/10C-Q3NIlzU)  
+2. Afrika Bambaataa[Afrika Bambaataa] – spread hip hop culture through the Universal Zulu Nation. (video link: https://youtu.be/9J3lwZjHenA)  
+3. Grandmaster Flash[Grandmaster Flash] – innovated DJ techniques like scratching and cutting. (video link: https://youtu.be/PobrSpMwKk4)  
 
-3. The Old School Era (Early 1980s)  
+[Kool Herc]: (video link: https://youtu.be/10C-Q3NIlzU)
+[Afrika Bambaataa]: (video link: https://youtu.be/9J3lwZjHenA)
+[Grandmaster Flash]: (video link: https://youtu.be/PobrSpMwKk4)
 
-Run DMC (image link: https://i.imgur.com/e80w9gc.jpg)
+## 3. The Old School Era (Early 1980s)  
+
+![Run DMC] (image link: https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
-- Rapper’s Delight by the Sugarhill Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
+- Rapper’s Delight by the [Sugarhill Gang]((video link: https://youtu.be/mcCK99wHrk0) ) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
 - Run-DMC fused rock and rap, creating crossover hits. (video link: https://youtu.be/l-O5IHVhWj0)  
 - LL Cool J and Beastie Boys brought hip hop to MTV audiences. (links: https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
 
