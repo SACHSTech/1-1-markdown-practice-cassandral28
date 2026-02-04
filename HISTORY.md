@@ -18,13 +18,13 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 >“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 Key Figures of the 1970s:  
-1. Kool Herc[Kool Herc] – credited with extending the break. (video link: https://youtu.be/10C-Q3NIlzU)  
-2. Afrika Bambaataa[Afrika Bambaataa] – spread hip hop culture through the Universal Zulu Nation. (video link: https://youtu.be/9J3lwZjHenA)  
-3. Grandmaster Flash[Grandmaster Flash] – innovated DJ techniques like scratching and cutting. (video link: https://youtu.be/PobrSpMwKk4)  
+1. Kool Herc[Kool Herc] – credited with extending the break. 
+2. Afrika Bambaataa[Afrika Bambaataa] – spread hip hop culture through the Universal Zulu Nation.  
+3. Grandmaster Flash[Grandmaster Flash] – innovated DJ techniques like scratching and cutting.
 
-[Kool Herc]: (video link: https://youtu.be/10C-Q3NIlzU)
-[Afrika Bambaataa]: (video link: https://youtu.be/9J3lwZjHenA)
-[Grandmaster Flash]: (video link: https://youtu.be/PobrSpMwKk4)
+[Kool Herc]:https://youtu.be/10C-Q3NIlzU)
+[Afrika Bambaataa]:(https://youtu.be/9J3lwZjHenA)
+[Grandmaster Flash]:(https://youtu.be/PobrSpMwKk4)
 
 ## 3. The Old School Era (Early 1980s)  
 
