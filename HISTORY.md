@@ -14,6 +14,7 @@ Together, these four pillars shaped a global cultural force. Today, hip hop is o
 ![DJ Kool Herc](https://i.imgur.com/weXCosl.jpg)
 
 Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the _breakbeat_ from funk and soul records.  
+
 This extended drum section became the foundation for MCs to hype up the crowd.  
 >“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
@@ -32,9 +33,9 @@ As hip hop gained traction, artists began recording tracks commercially.
 - [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences.  
 
 ## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
->“I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind
 
 ![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
+>“I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind
 
 The **Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
@@ -66,7 +67,7 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 ![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
 **Region**   | **Key Artists**            | **Notable Albums**  
-East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
+East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers
 West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
 Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
 South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  
